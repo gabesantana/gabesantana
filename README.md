@@ -3,7 +3,7 @@
 - estou cursando analíse e desenvolvimento de sistemas (1º semestre)
 - Centro Universitário Ítalo Brasileiro
 - Planejo me desenvolver na área de back-end
-- contato email: contatogabesantana@icloud.com
+- email de contato: contatogabesantana@icloud.com
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
