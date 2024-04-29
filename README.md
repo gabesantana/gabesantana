@@ -2,7 +2,6 @@
 
 - estou cursando analíse e desenvolvimento de sistemas (3º semestre)
 - Centro Universitário Ítalo Brasileiro
-- Estagiando na Think IT como Suporte Unix
 - email de contato: gabriel.s.leite@icloud.com
 
 <div align="center">
